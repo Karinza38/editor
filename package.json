@@ -27,7 +27,7 @@
     "@opentelemetry/exporter-metrics-otlp-proto": "0.53.0",
     "@opentelemetry/exporter-trace-otlp-proto": "0.53.0",
     "@opentelemetry/sdk-metrics": "1.26.0",
-    "@opentelemetry/sdk-node": "0.53.0",
+    "@opentelemetry/sdk-node": "0.57.0",
     "@opentelemetry/sdk-trace-node": "1.26.0",
     "@quasar/extras": "1.16.12",
     "ansicolor": "2.0.3",
