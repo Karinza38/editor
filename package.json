@@ -35,7 +35,7 @@
     "fast-defer": "1.1.8",
     "got": "14.4.2",
     "isomorphic-git": "1.27.1",
-    "lodash-es": "4.17.21",
+    "lodash-es": "4.17.23",
     "luxon": "3.5.0",
     "mitt": "3.0.1",
     "monaco-editor": "0.52.0",
